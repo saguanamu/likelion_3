@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
+header {font-family: 'Nanum Myeongjo', serif; font-size: 15pt}
+nav{font-family: 'Nanum Myeongjo', serif; font-size: 10pt; }
+article{font-family: 'Nanum Myeongjo', serif; font-size: 10pt}
+aside{font-family: 'Nanum Myeongjo', serif; font-size: 10pt}
+footer{font-family: 'Nanum Myeongjo', serif; color:darkgray; font-size: 9pt}
+a:link{color:black; background-color:transparent; text-decoration:none}
+a:visited{color:black; background-color:transparent; text-decoration:none}
+a:hover{color:darkturquoise; background-color:transparent; text-decoration:none}
+
+.musical {font-family: 'Nanum Myeongjo', serif; color:aliceblue; font-size: 10pt}
+.media {font-family: 'Nanum Myeongjo', serif; color: aliceblue; font-size: 10pt}
+.cook {font-family: 'Nanum Myeongjo', serif; font-size: 10pt}
+.kong{font-family: 'Nanum Myeongjo', serif; color: aliceblue; font-size: 10pt}
+
+#test {font-family: 'Nanum Myeongjo', serif; color:aliceblue; font-size: 10pt}
+#comment {font-family: 'Nanum Myeongjo', serif; color:aliceblue; font-size: 10pt}
+#comments {font-family: 'Nanum Myeongjo', serif; color:aliceblue; font-size: 10pt}
+
+.event7 .hoverBox span p{font-family: 'Nanum Myeongjo', serif; font-size: 15pt}

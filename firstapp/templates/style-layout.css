@@ -1,0 +1,101 @@
+.red1 {color: red; font-weight: bold; }
+body { background-color: white; margin:10px; }
+header { background-color: white; background: rgba(0, 0, 0, 0); text-align:center; margin:5px; padding:10px;  }
+nav { display:block; background-color:#FFFFFF; background: rgba(0, 0, 0, 0); text-align:center; margin:5px; padding:10px; }
+#navitem {margin: 10px}
+article { display:block;  width:90%; float:left; background: rgba(0, 0, 0, 0); margin:10px; }
+aside { display:block; width:5%; background-color:#FFFFFF; background: rgba(0, 0, 0, 0); float:right; margin:5px; }
+footer { clear:both; background-color:#FFFFFF; background: rgba(0, 0, 0, 0); text-align:center; margin:2px; }
+
+#audio { float:right; width:300px; height: 10%;}
+
+.musical ul li {float:left; margin-left:50px; padding: 45px; list-style-type: none;}
+.musical {
+    background-image: url(Img/musicalbg.jpg);
+    text-align: center; 
+}
+.musical a { color: aliceblue; }
+
+.cook ul li {
+    float:left;
+    margin-left: 50px;
+    list-style-type: none;
+    padding: 10px;
+}
+#tc {
+    padding: 30px;
+    text-align: center;
+}
+
+.red1 {color: red; font-style: italic; } 
+.cook body { background-color: white; }
+
+.kong {
+    background-image: url(Img/kongbg.png);
+    text-align: center;
+}
+
+.media {
+    background-image: url(Img/mediabg.jpg);
+    text-align: center;
+    background-size: cover;
+}
+
+#i1 {
+    padding: 50px;
+}
+
+#i2 {
+    padding: 50px;
+}
+
+#test {
+    background-image: url(Img/testbg4.png);
+    height: 580px;
+    text-align: center;
+}
+
+#testtable {
+    margin-left: auto; margin-right: auto;
+}
+
+#comment {
+    background-image: url(Img/commentsbg.png);
+    height: 580px;
+    text-align: center;
+}
+
+#comments{
+     background: rgba(0, 0, 0, 0.2);
+}
+
+.s1 {
+    background-color:#F8E0F1;
+}
+.s1:hover {
+    background-color:#F781F3;
+}
+
+.r1 {
+    background-color:#F8E0F1;
+}
+
+.r1:hover{
+    background-color:#F781F3;
+}
+
+.s2{
+    background-color: #A9A9F5;
+}
+
+.s2:hover{
+    background-color: #5882FA;
+}
+
+.r2 {
+    background-color: #A9A9F5;
+}
+
+.r2:hover{
+    background-color: #5882FA;
+}
